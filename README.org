@@ -1,0 +1,9 @@
+* graylex
+
+Gray lexer input streams
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/outergod/graylex.git |
+| commit  | 62fcd25                                     |
+| systems | graylex                                     |
+|---------+---------------------------------------------|
